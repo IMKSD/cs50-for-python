@@ -1,5 +1,5 @@
 .test {
     display: flex;
     justify-content: space-between;
-    
+    font-style: bold;
 }
